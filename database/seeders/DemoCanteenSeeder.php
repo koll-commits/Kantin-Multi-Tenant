@@ -116,6 +116,5 @@ class DemoCanteenSeeder extends Seeder
             );
         }
 
-        
     }
 }
